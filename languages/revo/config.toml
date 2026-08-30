@@ -1,0 +1,6 @@
+name = "Revo"
+grammar = "revo"
+path_suffixes = ["rv"]
+line_comments = ["#"]
+tab_size = 2
+hard_tabs = false

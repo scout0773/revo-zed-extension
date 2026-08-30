@@ -1,0 +1,15 @@
+id = "revo"
+name = "Revo"
+version = "0.0.1"
+schema_version = 1
+authors = ["matthew <mattifex@gmail.com>"]
+description = "Revo language support for Zed"
+repository = "https://github.com/if-not-nil/revo"
+
+[grammars.revo]
+repository = "https://codeberg.org/doomy/tree-sitter-revo"
+rev = "main"
+
+[language_servers.revolt]
+name = "Revolt"
+languages = ["Revo"]

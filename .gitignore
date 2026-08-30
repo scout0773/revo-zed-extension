@@ -1,0 +1,4 @@
+target/
+*.wasm
+grammars/
+tree-sitter-revo/
