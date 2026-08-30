@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["matthew <mattifex@gmail.com>"]
 description = "Revo language support for Zed"
-repository = "https://github.com/if-not-nil/revo"
+repository = "https://github.com/scout0773/revo-zed-extension"
 
 [grammars.revo]
 repository = "https://codeberg.org/doomy/tree-sitter-revo"
