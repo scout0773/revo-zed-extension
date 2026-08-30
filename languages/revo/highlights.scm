@@ -52,11 +52,11 @@
   (ident) @function.macro)
 
 ; control flow
-(return ("return" @keyword.control.return)) 
+(return ("return" @keyword.control.return))
 
 ; comments
 (comment) @comment
-(documentation) @comment.line.documentation
+(documentation) @comment.doc
 
 ; tests
 (suite) @comment.line.documentation
